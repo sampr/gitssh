@@ -1,2 +1,2 @@
 # gitssh
-Updating github repo
+Updated git repo readme
